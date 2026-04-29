@@ -1,6 +1,6 @@
 name: APIs.io Tags
 description: Browse APIs, capabilities, and more by tag across the APIs.io network.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://apis.io/assets/branding/apisio-social-card.png
 url: https://tags.apis.io
 
 node: website
